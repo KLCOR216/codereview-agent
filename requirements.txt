@@ -1,2 +1,6 @@
+langgraph
+langchain
 langchain-community
+python-dotenv
+dashscope
 streamlit
